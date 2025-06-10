@@ -1,0 +1,12 @@
+streamlit
+sounddevice
+numpy
+wave
+requests
+langdetect
+openai
+elevenlabs
+PyPDF2
+python-docx
+pandas
+python-dotenv
